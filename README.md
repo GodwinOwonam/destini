@@ -1,6 +1,6 @@
 # destini_project
 
-A new Flutter project.
+Based on the londonappbrewery/destini project on Angela Yu's Flutter course on Udemy.
 
 ## Getting Started
 
